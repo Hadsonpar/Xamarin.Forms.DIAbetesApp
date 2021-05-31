@@ -6,4 +6,4 @@ Landing Page: http://appdiabetes.hadsonpar.com/
 Authot: Hadson Paredes.
 Year Created: 2020.
 Technologies: Xamarin.Form, SQLite and API of Xamarin.Essentials and Microcharts.
-Google Play - Realese https://play.google.com/store/apps/details?id=com.hadsonpar.appdiabetes
+Google Play - Release testing: https://play.google.com/store/apps/details?id=com.hadsonpar.appdiabetes
